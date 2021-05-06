@@ -4,6 +4,8 @@
 #include "MQTTClient.h"
 #include "stm32l475e_iot01_accelero.h"
 
+// modify something
+
 // GLOBAL VARIABLES
 WiFiInterface *wifi;
 InterruptIn btn2(USER_BUTTON);
